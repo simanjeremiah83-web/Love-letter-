@@ -1,6 +1,4 @@
-# Love-letter-
-I want to make a website for my love 
-<!DOCTYPE html>
+# Love-letter
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
